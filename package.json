@@ -1,0 +1,32 @@
+{
+  "name": "ng2-app-template",
+  "version": "1.0.0",
+  "description": "template for a simple angular2 app skeleton.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonLiu001/ng2-app-template.git"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "keywords": [
+    "ng2-app-template"
+  ],
+  "author": "Jason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonLiu001/ng2-app-template/issues"
+  },
+  "bin": {
+    "ng2template": "bin/ng2template"
+  },
+  "homepage": "https://github.com/jasonLiu001/ng2-app-template#readme",
+  "devDependencies": {
+    "chalk": "^1.1.3",
+    "fs-extra": "^2.1.2"
+  }
+}

@@ -22,7 +22,7 @@
     "url": "https://github.com/jasonLiu001/ng2-app-template/issues"
   },
   "bin": {
-    "ng2template": "bin/ng2template"
+    "createmodule": "bin/createmodule"
   },
   "homepage": "https://github.com/jasonLiu001/ng2-app-template#readme",
   "devDependencies": {

@@ -15,16 +15,9 @@
     "@angular/router": "~3.4.0",
     "@ng-bootstrap/ng-bootstrap": "^1.0.0-alpha.20",
     "angular-in-memory-web-api": "~0.2.4",
-    "animate.css": "3.5.2",
     "bootstrap": "^4.0.0-alpha.6",
     "core-js": "^2.4.1",
-    "ionicons": "2.0.1",
-    "jquery": "^3.2.0",
-    "jquery-slimscroll": "^1.3.8",
-    "lodash": "4.17.4",
-    "normalize.css": "4.2.0",
     "rxjs": "5.0.1",
-    "systemjs": "0.19.40",
     "zone.js": "^0.7.4"
   },
   "scripts": {   
@@ -33,8 +26,6 @@
     "webpack:prod": "webpack --config config/webpack.prod.js --progress --colors --watch"
   },
   "devDependencies": {
-    "@types/jquery": "^2.0.41",
-    "@types/jquery.slimscroll": "^1.3.30",
     "@types/webpack": "^2.2.11",
     "angular2-template-loader": "^0.6.2",
     "assets-webpack-plugin": "^3.5.1",
@@ -51,7 +42,6 @@
     "sass-loader": "^6.0.3",
     "style-loader": "^0.14.1",
     "typescript": "~2.0.10",
-    "typings": "^2.1.0",
     "url-loader": "^0.5.8",
     "webpack": "^2.2.1"
   },
